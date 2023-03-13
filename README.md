@@ -2,9 +2,9 @@
 
 
 ##  Langkah 1: Instalasi
-Pastikan Anda memiliki server web (misalnya Apache) dan PHP diinstal pada komputer Anda.
-Buatlah database MySQL dengan nama "attendance".
-Buatlah tabel dengan nama "attendance_records" pada database "attendance". Tabel tersebut harus memiliki kolom sebagai berikut:
+- Pastikan Anda memiliki server web (misalnya Apache) dan PHP diinstal pada komputer Anda.
+- Buatlah database MySQL dengan nama "attendance".
+- Buatlah tabel dengan nama "attendance_records" pada database "attendance". Tabel tersebut harus memiliki kolom sebagai berikut:
 
 ``` 
     id INT(11) NOT NULL AUTO_INCREMENT
@@ -20,9 +20,9 @@ PRIMARY KEY (id)
 
 ## Langkah 2: Menggunakan aplikasi
 
-Buka browser web dan buka tampilan form aplikasi Attendance dengan mengakses file PHP yang telah dibuat.
-Masukkan nama karyawan ke dalam field "Employee Name".
-Tekan tombol "Attendance" jika ingin mencatat kehadiran karyawan.
-Tekan tombol "Time Out" jika ingin mencatat waktu pulang karyawan dan menampilkan jumlah keterlambatan, jumlah pulang cepat, dan jumlah lembur.
-Hasil perhitungan keterlambatan, pulang cepat, dan lembur akan ditampilkan di bawah tombol "Time Out".
-Demikianlah user guide untuk menggunakan aplikasi Attendance dengan tampilan form yang telah dibuat sebelumnya.
+- Buka browser web dan buka tampilan form aplikasi Attendance dengan mengakses file PHP yang telah dibuat.
+- Masukkan nama karyawan ke dalam field "Employee Name".
+- Tekan tombol "Attendance" jika ingin mencatat kehadiran karyawan.
+- Tekan tombol "Time Out" jika ingin mencatat waktu pulang karyawan dan menampilkan jumlah keterlambatan, jumlah pulang cepat, dan jumlah lembur.
+- Hasil perhitungan keterlambatan, pulang cepat, dan lembur akan ditampilkan di bawah tombol "Time Out".
+- Demikianlah user guide untuk menggunakan aplikasi Attendance dengan tampilan form yang telah dibuat sebelumnya.
