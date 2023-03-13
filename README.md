@@ -13,8 +13,10 @@ date DATE NOT NULL
 time_in TIME NOT NULL
 time_out TIME NULL
 PRIMARY KEY (id)
-    ```
-Pastikan Anda telah memodifikasi kode PHP untuk menghubungkan ke database MySQL Anda, dengan cara mengubah nilai variabel $servername, $username, dan $password pada script PHP di bagian atas.
+```
+
+
+- Pastikan Anda telah memodifikasi kode PHP untuk menghubungkan ke database MySQL Anda, dengan cara mengubah nilai variabel $servername, $username, dan $password pada script PHP di bagian atas.
 
 ## Langkah 2: Menggunakan aplikasi
 
